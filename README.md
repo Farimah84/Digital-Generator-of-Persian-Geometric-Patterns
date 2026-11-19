@@ -1,1 +1,1 @@
-# System-Digital-VHDL-Project
+# Digital-Generator-of-Persian-Geometric-Patterns
